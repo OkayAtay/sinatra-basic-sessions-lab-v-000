@@ -1,2 +1,2 @@
-class item
+class Item
 end
