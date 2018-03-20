@@ -1,7 +1,7 @@
-class Item
-  attr_accessor :name
-
-  def initialize(name)
-    @name = :name
-  end
-end
+# class Item
+#   attr_accessor :name
+#
+#   def initialize(name)
+#     @name = :name
+#   end
+# end
